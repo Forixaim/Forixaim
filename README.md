@@ -1,4 +1,4 @@
-Matthew
+<div align="center">Matthew</div>
 
 A cool programmer, thats it.
 
